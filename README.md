@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jmaczan
 - 🔨 I work in TypeScript, .NET, React and do some software architecture and application security
-- 👀 Besides computer science I’m interested in mathematics and physics and have no deep knowledge in any of them 😛
+- 👀 Besides computer science I like mathematics and physics and I’m bad at both 😛
 - 🌱 I’m currently learning Rust 🦀 and some math behind quantum physics
 - 🎓 I’m pursuing master’s in computer science at University of Gdańsk
 - 📫 How to reach me: jedrzejpawel@maczan.pl

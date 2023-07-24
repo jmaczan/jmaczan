@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @jmaczan
-- 🔨 I work in TypeScript, .NET, React and do software architecture and application security
-- 🌱 I’m currently building B2B marketplace
+- 👋 Hi, I’m @jmaczan and I like to build stuff 🔬  
+  - 🏭 [ᓚᘏᗢ Technology Daily](https://bibop.app) - We utilize generative AI to write and share about technology 🤖
+  - 🌱 [Paid Open Source Software B2B Marketplace](https://poss.market) - Bring reliable software to business and revenue stream to developers - under construction 👷
+  - 📰 [HackerNews Daily Summary Newsletter ≽^•⩊•^≼](https://mailchi.mp/8e5a0abfd6be/h59zy01kio) - Receive curated technology HackerNews links right to your email box! 👩‍💻
+- 🔨 I work in TypeScript, Node.js, React, .NET and do software architecture and application security
 - 👀 Besides computer science I like math and physics and I’m bad at both 😛
 - 🎓 In 2018 I earned bachelor in computer science at Wrocław University of Science and Technology
 - 📫 How to reach me: jedrzejpawel@maczan.pl

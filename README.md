@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jmaczan and I like to build stuff 🔬  
-  - 🏭 [ᓚᘏᗢ Technology Daily](https://bibop.app) - We utilize generative AI to write and share about technology 🤖
+  - 🏭 [ᓚᘏᗢ Technology Daily](https://bibop.app) - We utilize generative AI to write and share about technology
   - 📰 [HackerNews Daily Summary Newsletter ≽^•⩊•^≼](https://mailchi.mp/8e5a0abfd6be/h59zy01kio) - Receive curated technology HackerNews links right to your email box
   - 🌱 [Paid Open Source Software B2B Marketplace](https://poss.market) - Bring reliable software to business and revenue stream to developers - under construction 👷
   - 🎨 [Anita Maczan's Art Gallery](https://anitamaczan.pl) - Surrealistic paintings and drawings

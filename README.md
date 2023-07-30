@@ -14,7 +14,7 @@
   - 🤗 Machine Learning with Python:
     - [Multi-Layer Perceptron neural network from scratch](https://github.com/jmaczan/mlp-classifier)
   - 🐍 Python:
-    - [Network security tool for monitoring](https://github.com/jmaczan/ktotu)
+    - [Network security monitoring tool](https://github.com/jmaczan/ktotu)
     - [MAC addresses scanner](https://github.com/jmaczan/mac-addresses-scanner)
   - 🦀 Rust:
     - [Programming Language Interpreter](https://github.com/jmaczan/0x6b73746b)

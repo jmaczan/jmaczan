@@ -24,8 +24,8 @@
     - [Modern ping alternative](https://github.com/jmaczan/pff)
     - [Base64 (en/de)coder](https://github.com/jmaczan/rsb64)
   - 🖥 Frontend:
-    - [CSS Bulma complementary library](https://github.com/jmaczan/bulma-helpers) - used by thousands of devs worldwide!
-    - [Vue.js chat](https://github.com/jmaczan/basic-vue-chat) - used by Microsoft in [GODEL](https://github.com/microsoft/GODEL) - large-scale pretrained models for goal-directed dialog
+    - [CSS Bulma complementary library](https://github.com/jmaczan/bulma-helpers) - used by [thousands](https://www.npmjs.com/package/bulma-helpers) of [devs](https://github.com/jmaczan/bulma-helpers/network/dependents) worldwide!
+    - [Vue.js chat](https://github.com/jmaczan/basic-vue-chat) - used by [Microsoft](https://www.microsoft.com/en-us/research/project/godel/) in [GODEL](https://github.com/microsoft/GODEL) - large-scale pretrained models for goal-directed dialog
     - [Spellbook Web](https://github.com/jmaczan/spellbook/tree/main/web)
     - [Blog template for my static site generator](https://github.com/jmaczan/xiexie-blog-template)
     - [console.log that prints parameters name](https://github.com/jmaczan/funkcja)

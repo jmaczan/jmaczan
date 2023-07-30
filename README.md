@@ -21,14 +21,14 @@
     - [Static site generator](https://github.com/jmaczan/xiexie)
     - [Modern ping alternative](https://github.com/jmaczan/pff)
     - [base64 (en/de)coder](https://github.com/jmaczan/rsb64)
-  - ⌨ Shell:
-    - [neofetch live](https://github.com/jmaczan/neofetchlive)
-    - [shell commands repeater](https://github.com/jmaczan/repeat-sh)
   - 🖥 Frontend:
     - [CSS Bulma complementary library](https://github.com/jmaczan/bulma-helpers) - used by thousands of devs worldwide!
     - [Vue.js chat](https://github.com/jmaczan/basic-vue-chat) - used by Microsoft in [GODEL](https://github.com/microsoft/GODEL) large-scale pretrained models for goal-directed dialog
     - [console.log that prints parameters name](https://github.com/jmaczan/funkcja)
     - [blog template for my static site generator](https://github.com/jmaczan/xiexie-blog-template)
+  - ⌨ Shell:
+    - [neofetch live](https://github.com/jmaczan/neofetchlive)
+    - [shell commands repeater](https://github.com/jmaczan/repeat-sh)
 
 ### Bio 
 - 🔨 I work in TypeScript, Node.js, React, .NET and do software architecture and application security

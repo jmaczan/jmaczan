@@ -11,11 +11,24 @@
   - 📰 [HackerNews Daily Summary Newsletter ≽^•⩊•^≼](https://mailchi.mp/8e5a0abfd6be/h59zy01kio) - Curated HackerNews links in your email box
 
 ### I like to write open source 💽
-  - 🤗 Machine Learning with Python: [Multi-Layer Perceptron neural network from scratch](https://github.com/jmaczan/mlp-classifier)
-  - 🐍 Python: [Network security tool for monitoring](https://github.com/jmaczan/ktotu), [MAC addresses scanner](https://github.com/jmaczan/mac-addresses-scanner)
-  - 🦀 Rust: [Programming Language Interpreter](https://github.com/jmaczan/0x6b73746b), [Static site generator](https://github.com/jmaczan/xiexie), [Modern ping alternative](https://github.com/jmaczan/pff), [base64 (en/de)coder](https://github.com/jmaczan/rsb64)
-  - ⌨ Shell: [neofetch live](https://github.com/jmaczan/neofetchlive), [shell commands repeater](https://github.com/jmaczan/repeat-sh)
-  - 🖥 Frontend: [CSS Bulma complementary library](https://github.com/jmaczan/bulma-helpers) - used by thousands of devs worldwide!, [Vue.js chat](https://github.com/jmaczan/basic-vue-chat) - used by Microsoft in [GODEL](https://github.com/microsoft/GODEL) large-scale pretrained models for goal-directed dialog, [console.log that prints parameters name](https://github.com/jmaczan/funkcja), [blog template for my static site generator](https://github.com/jmaczan/xiexie-blog-template)
+  - 🤗 Machine Learning with Python:
+    - [Multi-Layer Perceptron neural network from scratch](https://github.com/jmaczan/mlp-classifier)
+  - 🐍 Python:
+    - [Network security tool for monitoring](https://github.com/jmaczan/ktotu)
+    - [MAC addresses scanner](https://github.com/jmaczan/mac-addresses-scanner)
+  - 🦀 Rust:
+    - [Programming Language Interpreter](https://github.com/jmaczan/0x6b73746b)
+    - [Static site generator](https://github.com/jmaczan/xiexie)
+    - [Modern ping alternative](https://github.com/jmaczan/pff)
+    - [base64 (en/de)coder](https://github.com/jmaczan/rsb64)
+  - ⌨ Shell:
+    - [neofetch live](https://github.com/jmaczan/neofetchlive)
+    - [shell commands repeater](https://github.com/jmaczan/repeat-sh)
+  - 🖥 Frontend:
+    - [CSS Bulma complementary library](https://github.com/jmaczan/bulma-helpers) - used by thousands of devs worldwide!
+    - [Vue.js chat](https://github.com/jmaczan/basic-vue-chat) - used by Microsoft in [GODEL](https://github.com/microsoft/GODEL) large-scale pretrained models for goal-directed dialog
+    - [console.log that prints parameters name](https://github.com/jmaczan/funkcja)
+    - [blog template for my static site generator](https://github.com/jmaczan/xiexie-blog-template)
 
 ### Bio 
 - 🔨 I work in TypeScript, Node.js, React, .NET and do software architecture and application security

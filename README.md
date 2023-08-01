@@ -29,6 +29,7 @@
     - [Spellbook Web](https://github.com/jmaczan/spellbook/tree/main/web)
     - [Blog template for my static site generator](https://github.com/jmaczan/xiexie-blog-template)
     - [console.log that prints parameters name](https://github.com/jmaczan/funkcja)
+    - [35 bytes of HTML](https://github.com/jmaczan/35bytes)
   - 📠 TypeScript backend:
     - [Spellbook API](https://github.com/jmaczan/spellbook/tree/main/api)
   - ⌨ Shell:

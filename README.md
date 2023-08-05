@@ -1,5 +1,7 @@
 👋 Hi, I’m @jmaczan
 
+#### 🧑‍🚀 I'm open to CTO/VP engineering/staff engineer/tech lead 100% remote roles ➡ jed@maczan.pl
+
 ### I like to build products 🔬  
   - 🌱 [Paid Open Source Software Marketplace](https://poss.market) - Bring reliable software to business and revenue stream to developers
   - 🦭 [Gdańsk AI](https://github.com/jmaczan/gdansk-ai) - Full stack AI voice chatbot (speech-to-text, LLM, text-to-speech) with integrations to Auth0, OpenAI, Google Cloud and Stripe - Web App, Web API and AI API

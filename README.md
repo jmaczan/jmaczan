@@ -1,6 +1,6 @@
 👋 Hi, I’m @jmaczan
 
-#### 🧑‍🚀 I'm open to CTO/VP engineering/staff engineer/tech lead 100% remote roles ➡ jed@maczan.pl
+#### 🧑‍🚀 I'm open to CTO/VP of Engineering/Staff Engineer/Tech Lead 100% remote roles ➡ jed@maczan.pl
 
 ### I like to build products 🔬  
   - 🌱 [Paid Open Source Software Marketplace](https://poss.market) - Bring reliable software to business and revenue stream to developers

@@ -36,7 +36,7 @@
   - 📠 TypeScript backend:
     - [Gdańsk AI - Web API](https://github.com/jmaczan/gdansk-ai/tree/main/web-api)
     - [Spellbook API](https://github.com/jmaczan/spellbook/tree/main/api)
-  - ⌨ Shell:
+  - 👻 Shell:
     - [Neofetchlive](https://github.com/jmaczan/neofetchlive)
     - [Shell commands repeater](https://github.com/jmaczan/repeat-sh)
 

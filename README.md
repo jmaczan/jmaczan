@@ -1,4 +1,4 @@
-👋 Hi, I’m @jmaczan
+👋 Hi, I’m Jed
 
 ### I like to build products 🔬  
   - 🌱 [Paid Open Source Software Marketplace](https://poss.market) - Bring reliable software to business and revenue stream to developers

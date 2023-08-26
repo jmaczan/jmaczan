@@ -12,8 +12,9 @@
 
 ### I like to create open source software 💽
   - 🤗 Machine Learning with Python:
-    - [Multi-Layer Perceptron neural network from scratch](https://github.com/jmaczan/mlp-classifier)
+    - [C-137](https://github.com/jmaczan/c-137) - Llama 2 7B fine-tuned to revive Rick 
     - [Gdańsk AI - AI API](https://github.com/jmaczan/gdansk-ai/tree/main/ai-api)
+    - [Multi-Layer Perceptron neural network from scratch](https://github.com/jmaczan/mlp-classifier)
   - 🐍 Python:
     - [Network security monitoring tool](https://github.com/jmaczan/ktotu)
     - [Spellbook CLI](https://github.com/jmaczan/spellbook/tree/main/cli)

@@ -2,7 +2,7 @@ now
   research
     ASR for dysarthric speech
   development
-    YOLOv3-tiny with OpenVINO in C++
+    YOLOv3-tiny with OpenVINO and OpenCV in C++
   books
     Understanding Deep Learning
     Linear Algebra Done Right

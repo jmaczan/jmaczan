@@ -4,5 +4,6 @@ now
   development
     YOLOv3-tiny with OpenVINO and OpenCV in C++
   books
-    Understanding Deep Learning
     Linear Algebra Done Right
+  languages in use
+    JavaScript, Python, C++

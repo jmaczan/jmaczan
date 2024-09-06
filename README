@@ -3,6 +3,5 @@ now
     ASR for dysarthric speech [ preliminary results with WebGPU https://asr-dysarthria-preliminary.pages.dev ]
   development
     YOLOv3-tiny with OpenVINO and OpenCV in C++
-  books
-    "Linear Algebra Done Right" Sheldon Axler
-    "To Understand Programming" Gynvael Coldwind
+  languages
+    C++, Python, Rust

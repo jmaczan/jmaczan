@@ -1,7 +1,1 @@
-now
-  research
-    ASR for dysarthric speech [ preliminary results with WebGPU https://asr-dysarthria-preliminary.pages.dev ]
-  development
-    High performance human detector using YOLOv3-tiny with OpenVINO and OpenCV
-  languages
-    Python, C++, Rust, TypeScript
+

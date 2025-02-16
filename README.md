@@ -5,4 +5,4 @@ If you are a:
 - caregiver
 - speech therapist
 
-then [sign up the waitlist](https://mailchi.mp/0c6c7713ef3b/be-understood-speech-helper-app-email-waitlist)
+then [sign up to the waitlist](https://mailchi.mp/0c6c7713ef3b/be-understood-speech-helper-app-email-waitlist)

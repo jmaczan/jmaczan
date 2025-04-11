@@ -1,1 +1,1 @@
-I'm building **[an app that understands dysarthric speech](https://beunderstoodapp.com/)**. If you have speech disorders which affect speech intelligibility, [sign up to the waitlist](https://mailchi.mp/0c6c7713ef3b/be-understood-speech-helper-app-email-waitlist)
+I'm building **[an app that understands dysarthric speech](https://beunderstoodapp.com/)**. If you have a speech disorder that affects your speech intelligibility, [sign up to the waitlist](https://mailchi.mp/0c6c7713ef3b/be-understood-speech-helper-app-email-waitlist)

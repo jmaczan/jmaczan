@@ -1,1 +1,1 @@
-I'm building **[an app that understands dysarthric speech](https://beunderstoodapp.com/)**. If you have a speech disorder that affects your speech intelligibility and you want to support the development, [sign up here](https://beunderstoodapp.com/)
+
